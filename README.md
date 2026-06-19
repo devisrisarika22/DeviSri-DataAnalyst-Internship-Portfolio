@@ -70,7 +70,7 @@ Structured findings into a **5-chapter business narrative** with 4 hypothesis te
 
 **Key Finding:** October revenue spike is statistically proven (p=0.0075) — the festive season effect is real.
 
-📎 [Final Presentation Deck](./Task4-DataStorytelling-Validation/tree/main)
+📎 [Final Presentation Deck](./Task4_DataStorytelling_Presentation.pptx)
 
 ---
 
