@@ -114,5 +114,3 @@ Structured findings into a **5-chapter business narrative** with 4 hypothesis te
 ## 👩‍💻 Author
 **Devi Sri** — Aspiring Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/devisrisarika22)
